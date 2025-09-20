@@ -1,6 +1,11 @@
-# Nomotix - Premium E-Commerce Platform
+<img width="1462" height="827" alt="Screenshot 2025-08-12 at 9 23 08 AM" src="https://github.com/user-attachments/assets/7c00e97d-3291-4a29-9ac3-ab510209ae32" /># Nomotix - Premium E-Commerce Platform
 
 A full-stack, scalable e-commerce web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and styled with Tailwind CSS. Nomotix provides a modern, Amazon-style shopping experience with comprehensive product catalog, user management, and secure payment processing.
+
+<img width="1462" height="827" alt="Screenshot 2025-08-12 at 9 23 08 AM" src="https://github.com/user-attachments/assets/0052dd0e-19c4-4db2-99d9-ea0810a2573a" />
+
+<img width="1464" height="832" alt="Screenshot 2025-08-12 at 9 25 59 AM" src="https://github.com/user-attachments/assets/20f1af18-d0ec-4008-a86e-b3669ab06c69" />
+
 
 ## 🚀 Features
 
